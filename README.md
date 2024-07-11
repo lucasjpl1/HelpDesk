@@ -87,6 +87,6 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE.md para detalhes.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_jesus_pires/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jesus-357ba5182)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/seu-canal](https://youtube.com/@lucasjesus5043?si=edLkQly8CcWQ61gF))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/seu-canal](https://youtube.com/@lucasjesus5043?si=edLkQly8CcWQ61gF)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasjesuss2004@gmail.com)
 
