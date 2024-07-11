@@ -108,8 +108,8 @@ Nós usamos SemVer para controle de versão. Para as versões disponíveis, obse
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-- Um desenvolvedor - Trabalho Inicial - [umdesenvolvedor](https://github.com/umdesenvolvedor)
-- Fulano De Tal - Documentação - [fulanodetal](https://github.com/fulanodetal)
+- Trabalho Inicial - [Github](https://github.com/Lucasjpl1)
+- Documentação - [Github](https://github.com/Lucasjpl1)
 
 Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
 
